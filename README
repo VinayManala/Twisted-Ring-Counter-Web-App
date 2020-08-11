@@ -1,10 +1,8 @@
 This is the readme section
 
 The localhost web app is created using HTML, CSS and JavaScript using Apache server on Linux machine.
-
-No data validation is done till now but in future i am going to create a login page for the users to login.
+The login page is used for users to login based on JSON data available which is loaded by using the fetch API creating AJAX requests to the server.
 
 Screenshots Available.
-
 
 Thank You !!!
